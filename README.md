@@ -210,7 +210,7 @@ The focus is not just implementation — but understanding why architectural and
 
 Build strong expertise in:
 
-- Efficient LLM training
+- Efficient LLM trainings
 - Research-level understanding
 - Practical fine-tuning pipelines
 - Resource-aware model adaptation
