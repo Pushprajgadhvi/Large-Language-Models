@@ -215,3 +215,4 @@ Build strong expertise in:
 - Practical fine-tuning pipelines
 - Resource-aware model adaptation
 - Instruction-following systems
+---
