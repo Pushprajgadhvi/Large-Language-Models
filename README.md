@@ -199,8 +199,6 @@ This repository follows a structured roadmap:
 4. Apply parameter-efficient fine-tuning (LoRA)
 5. Move toward instruction-aligned LLM
 
----
-
 The focus is not just implementation — but understanding why architectural and optimization decisions matter at scale.
 
 ---
